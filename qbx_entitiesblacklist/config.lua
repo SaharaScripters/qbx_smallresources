@@ -7,7 +7,7 @@ return {
         [`LAZER`] = true,
         [`BUZZARD`] = true,
         [`BUZZARD2`] = true,
-        [`ANNIHILATOR`] = true,
+        --[`ANNIHILATOR`] = true,
         [`ANNIHILATOR2`] = true, --
         [`SAVAGE`] = true,
         [`TITAN`] = true,
